@@ -1,0 +1,15 @@
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\bin\Debug\OnlineMart_Kelompok14.exe.config
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\bin\Debug\OnlineMart_Kelompok14.exe
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\bin\Debug\OnlineMart_Kelompok14.pdb
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.csproj.AssemblyReference.cache
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.mdiOnlineMart.resources
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.Properties.Resources.resources
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.csproj.GenerateResource.cache
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.csproj.CoreCompileInputs.cache
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.exe
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.pdb
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.FormLoginPegawai.resources
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.FormLoginKonsumen.resources
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.FormLoginKurir.resources
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.FormRegisterKonsumen.resources
+C:\Users\Muhtarom Widodo\Source\Repos\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.FormRegisterKurir.resources
