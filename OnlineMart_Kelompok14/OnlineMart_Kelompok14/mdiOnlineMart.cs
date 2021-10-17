@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using OnlineMart_LIB;
 
 namespace OnlineMart_Kelompok14
 {
@@ -24,7 +25,17 @@ namespace OnlineMart_Kelompok14
 
         private void mdiOnlineMart_Load(object sender, EventArgs e)
         {
-        
+            this.IsMdiContainer = true;
+            try
+            {
+                Koneksi koneksi = new Koneksi(db.Default.DbServer, db.Default.DbName, db.Default.DbUsername, db.Default.DbPassword);
+                MessageBox.Show("Koneksi berhasil", "Informasi");
+            }
+            catch (Exception x)
+            {
+                MessageBox.Show("Koneksi Gagal. Pesan kesalahan : " + x.Message);
+            }
+
         }
 
         private void toolStripMenuItem4_Click(object sender, EventArgs e)
