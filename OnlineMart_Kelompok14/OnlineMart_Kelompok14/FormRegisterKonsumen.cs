@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OnlineMart_Kelompok14
 {
-    public partial class Form1 : Form
+    public partial class FormRegisterKonsumen : Form
     {
-        public Form1()
+        public FormRegisterKonsumen()
         {
             InitializeComponent();
         }
