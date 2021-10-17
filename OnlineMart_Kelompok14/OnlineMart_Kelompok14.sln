@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMart_Kelompok14", "OnlineMart_Kelompok14\OnlineMart_Kelompok14.csproj", "{D1272962-463E-4C46-836F-E743A58C4EB2}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMart_LIB", "OnlineMart_LIB\OnlineMart_LIB.csproj", "{288DBCD5-D783-4EC6-ACD3-0ED0113D4448}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineMart_LIB", "..\OnlineMart_LIB\OnlineMart_LIB.csproj", "{288DBCD5-D783-4EC6-ACD3-0ED0113D4448}"
+>>>>>>> 7d154b7f2b02a61e670a6d74b421f44331b93ebb
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

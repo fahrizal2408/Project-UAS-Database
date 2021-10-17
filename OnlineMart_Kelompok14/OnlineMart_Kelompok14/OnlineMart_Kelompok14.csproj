@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="OnlineMart_LIB">
-      <HintPath>..\OnlineMart_LIB\obj\Debug\OnlineMart_LIB.dll</HintPath>
+      <HintPath>..\..\OnlineMart_LIB\bin\Debug\OnlineMart_LIB.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -49,6 +49,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="db.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>db.settings</DependentUpon>
+    </Compile>
     <Compile Include="FormLoginKurir.cs">
       <SubType>Form</SubType>
     </Compile>
