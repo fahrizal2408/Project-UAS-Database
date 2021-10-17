@@ -1,0 +1,9 @@
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\bin\Debug\OnlineMart_Kelompok14.exe.config
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\bin\Debug\OnlineMart_Kelompok14.exe
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\bin\Debug\OnlineMart_Kelompok14.pdb
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.csproj.AssemblyReference.cache
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.Properties.Resources.resources
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.csproj.GenerateResource.cache
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.csproj.CoreCompileInputs.cache
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.exe
+C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_Kelompok14\obj\Debug\OnlineMart_Kelompok14.pdb
