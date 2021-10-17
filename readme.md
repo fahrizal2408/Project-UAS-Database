@@ -12,3 +12,6 @@ mengakibatkan NISBI E
 Nama Database: online_mart
 Username: root
 Password: 
+
+Backcolor Form : 64, 64, 64
+Forecolor Text : White
