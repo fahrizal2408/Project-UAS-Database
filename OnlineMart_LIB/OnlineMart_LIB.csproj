@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{288DBCD5-D783-4EC6-ACD3-0ED0113D4448}</ProjectGuid>
+    <ProjectGuid>{D01E84FD-4F94-4619-937A-96AB35678ACB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>OnlineMart_LIB</RootNamespace>
