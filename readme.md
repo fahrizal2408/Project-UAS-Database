@@ -8,4 +8,3 @@ Kesalahan dalam peraturan mengakibatkan tidak dinilainya project
 5. Progress Project akan dinilai setiap minggunya.
 6. Segala bentuk kecurangan termasuk plagiarism tidak akan ditoleransi dan
 mengakibatkan NISBI E
-zzzz
