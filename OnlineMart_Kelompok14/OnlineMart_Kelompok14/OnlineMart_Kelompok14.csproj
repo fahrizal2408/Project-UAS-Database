@@ -49,16 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Compile Include="db.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTimeSharedInput>True</DesignTimeSharedInput>
-      <DependentUpon>db.settings</DependentUpon>
-    </Compile>
-    <Compile Include="Form1.cs">
-=======
     <Compile Include="FormLoginKurir.cs">
->>>>>>> fa626245a3e4dbcc9e9537bbbbbe6b0015fcbd24
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormLoginKurir.Designer.cs">
