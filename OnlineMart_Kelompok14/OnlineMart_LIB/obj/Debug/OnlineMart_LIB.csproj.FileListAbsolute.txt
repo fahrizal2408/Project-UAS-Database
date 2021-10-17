@@ -15,7 +15,6 @@ C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\On
 C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_LIB\bin\Debug\MySql.Data.xml
 C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_LIB\obj\Debug\OnlineMart_LIB.csproj.AssemblyReference.cache
 C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_LIB\obj\Debug\OnlineMart_LIB.csproj.CoreCompileInputs.cache
-C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_LIB\obj\Debug\OnlineMart_LIB.csproj.CopyComplete
 C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_LIB\obj\Debug\OnlineMart_LIB.dll
 C:\Users\izwar\Desktop\UASDatabase\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_LIB\obj\Debug\OnlineMart_LIB.pdb
 E:\College\Class Semester 3\Database A\C#\Project UAS\Project-UAS-Database\OnlineMart_Kelompok14\OnlineMart_LIB\bin\Debug\OnlineMart_LIB.dll
