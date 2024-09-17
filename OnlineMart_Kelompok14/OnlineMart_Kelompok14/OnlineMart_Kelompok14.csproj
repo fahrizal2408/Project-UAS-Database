@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="OnlineMart_LIB">
+      <HintPath>..\..\OnlineMart_LIB\bin\Debug\OnlineMart_LIB.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,14 +49,67 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="db.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>db.settings</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoginKurir.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="FormLoginKurir.Designer.cs">
+      <DependentUpon>FormLoginKurir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoginPegawai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoginPegawai.Designer.cs">
+      <DependentUpon>FormLoginPegawai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoginKonsumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoginKonsumen.Designer.cs">
+      <DependentUpon>FormLoginKonsumen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegisterKonsumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegisterKonsumen.Designer.cs">
+      <DependentUpon>FormRegisterKonsumen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegisterKurir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegisterKurir.Designer.cs">
+      <DependentUpon>FormRegisterKurir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mdiOnlineMart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdiOnlineMart.Designer.cs">
+      <DependentUpon>mdiOnlineMart.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormLoginKonsumen.resx">
+      <DependentUpon>FormLoginKonsumen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoginKurir.resx">
+      <DependentUpon>FormLoginKurir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoginPegawai.resx">
+      <DependentUpon>FormLoginPegawai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegisterKonsumen.resx">
+      <DependentUpon>FormRegisterKonsumen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegisterKurir.resx">
+      <DependentUpon>FormRegisterKurir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdiOnlineMart.resx">
+      <DependentUpon>mdiOnlineMart.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,7 +118,12 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="db.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>db.Designer.cs</LastGenOutput>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,6 +136,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OMALogo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OMALogo.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture-removebg-preview.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
